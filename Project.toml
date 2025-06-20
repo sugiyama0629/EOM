@@ -1,0 +1,10 @@
+name = "EOM"
+uuid = "557521b8-6feb-4f7a-a0d1-699711547ae7"
+authors = ["sugiyama0629 <sugiyama.y.957@ms.saitama-u.ac.jp>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
